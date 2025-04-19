@@ -18,9 +18,9 @@ const CastingHero = () => {
           <p className="text-gray-400">Работа с опытными режиссерами и операторами</p>
         </div>
         <div className="bg-[#1d1d1d] p-6 rounded-xl border border-[#c5176c]/30">
-          <span className="text-4xl mb-4 block">💰</span>
-          <h3 className="text-xl font-bold mb-2">Достойная оплата</h3>
-          <p className="text-gray-400">Конкурентные гонорары за каждую съемку</p>
+          <span className="text-4xl mb-4 block">📸</span>
+          <h3 className="text-xl font-bold mb-2">ТФП проекты</h3>
+          <p className="text-gray-400">Идеально для начинающих моделей и актрис</p>
         </div>
         <div className="bg-[#1d1d1d] p-6 rounded-xl border border-[#c5176c]/30">
           <span className="text-4xl mb-4 block">🚀</span>

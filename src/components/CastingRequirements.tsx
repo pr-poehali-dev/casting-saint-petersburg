@@ -46,23 +46,23 @@ const CastingRequirements = () => {
               <ul className="space-y-3 text-gray-300">
                 <li className="flex items-start">
                   <span className="mr-2 text-[#c5176c]">•</span> 
-                  <span>Интересные проекты с профессиональной командой</span>
+                  <span>Проекты для начинающих актрис и моделей</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2 text-[#c5176c]">•</span> 
-                  <span>Гибкий график съемок</span>
+                  <span>Сотрудничество на условиях ТФП (Time for Print)</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2 text-[#c5176c]">•</span> 
-                  <span>Помощь с портфолио</span>
+                  <span>Роялти после успешной реализации проектов</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2 text-[#c5176c]">•</span> 
-                  <span>Возможность профессионального роста</span>
+                  <span>Помощь с портфолио и карьерным ростом</span>
                 </li>
                 <li className="flex items-start">
                   <span className="mr-2 text-[#c5176c]">•</span> 
-                  <span>Работа в Санкт-Петербурге</span>
+                  <span>Работа в Санкт-Петербурге с гибким графиком</span>
                 </li>
               </ul>
             </CardContent>
